@@ -23,7 +23,6 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
 ```
 import pandas as pd
 import numpy as np
@@ -166,4 +165,4 @@ sns.heatmap(corr, annot=True)
 <img src="https://github.com/user-attachments/assets/e9928a4d-c6d5-4cbb-bf5f-32966012c8fb" width="600">
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        Hence performed the exploratory data analysis on the given dataset
