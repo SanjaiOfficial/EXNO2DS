@@ -1,3 +1,4 @@
+```
 ## EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
@@ -166,3 +167,4 @@ sns.heatmap(corr, annot=True)
 
 # RESULT
         Hence performed the exploratory data analysis on the given dataset
+```
