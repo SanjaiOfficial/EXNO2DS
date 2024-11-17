@@ -1,7 +1,9 @@
 
 ## EXNO2DS
+
 # AIM:
-      To perform Exploratory Data Analysis on the given data set.
+
+To perform Exploratory Data Analysis on the given data set.
       
 # EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
@@ -165,5 +167,6 @@ sns.heatmap(corr, annot=True)
 ```
 <img src="https://github.com/user-attachments/assets/e9928a4d-c6d5-4cbb-bf5f-32966012c8fb" width="600">
 
+
 # RESULT
-        Hence performed the exploratory data analysis on the given dataset
+      Hence performed the exploratory data analysis on the given dataset
